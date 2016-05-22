@@ -8,6 +8,11 @@ We do not want people to pay to much for the most basics in the Internet age tod
 Let's get the best, for the best price, all Open Source, for the best projects.
 Document it, support it and earn a living with it if you like.
 
+[Meta]:
+- Open Datacenter
+- Open Hardware
+- Open Networking
+
 # Minimum Requirements:
 - Not Boxed in into any Cloud Provider. Only SSH to Server needed.
 - Best practice of SERVER OS Setup, Configuration and Administration.
